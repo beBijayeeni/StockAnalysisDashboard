@@ -11,8 +11,11 @@ This project fetches stock price data from Yahoo Finance using `yfinance` and pr
 
 ## Project Structure
 
+```sh
 StockAnalysisDashboard/
 ├── README.md
 ├── requirements.txt
 ├── stock_analysis.py
 └── stock_reports.xlsx
+
+```
