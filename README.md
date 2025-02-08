@@ -13,9 +13,44 @@ This project fetches stock price data from Yahoo Finance using `yfinance` and pr
 
 ```sh
 StockAnalysisDashboard/
-├── README.md
-├── requirements.txt
-├── stock_analysis.py
-└── stock_reports.xlsx
+├── README.md #Project overview and usage instructions.
+├── requirements.txt #Lists all required Python libraries.
+├── stock_analysis.py #Contains functions for saving stock report data to an Excel file as well as functions to fetch daily stock prices, generate option reports, and plot interactive candlestick charts.
+└── stock_reports.xlsx #Stores output file
 
+```
+
+
+## Installation
+
+### Clone the repository
+
+```bash
+git clone <repository-url>
+cd StockAnalysisDashboard
+```
+
+### Install Dependencies
+```sh
+pip install -r requirements.txt
+```
+
+## Usage
+
+Run the main script:
+```sh
+python stock_analysis.py
+```
+This will:
+
+- Fetch daily stock prices for the tickers defined (e.g., INFY, TCS, WIPRO).
+- Generate a 1-month option report for each ticker.
+- Display an interactive candlestick chart for the 1-month period.
+
+## Running the Project
+
+**Set up your environment:**  
+Install Python 3 and then run:
+```bash
+pip install -r requirements.txt
 ```
