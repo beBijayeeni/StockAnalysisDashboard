@@ -12,7 +12,7 @@ This project fetches stock price data from Yahoo Finance using `yfinance` and pr
 ## Project Structure
 
 StockAnalysisDashboard/
-├── README.md #Project overview 
-├── requirements.txt #Lists all required Python libraries.
-├── stock_analysis.py #Contains functions for saving stock report data to an Excel file as well as functions to fetch daily stock prices, generate option reports, and plot interactive candlestick charts.
-└── stock_reports.xlsx #Stores ouput file
+├── README.md
+├── requirements.txt
+├── stock_analysis.py
+└── stock_reports.xlsx
