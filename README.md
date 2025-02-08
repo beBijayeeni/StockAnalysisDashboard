@@ -43,8 +43,8 @@ python stock_analysis.ipynb
 ```
 This will:
 
-- Launch the Dashboard: Run the application to access the web-based interface for stock analysis.
+- **Launch the Dashboard:** Run the application to access the web-based interface for stock analysis.
 
-- Select Companies: Use the search or dropdown feature to choose specific NSE & BSE listed companies for detailed analysis.
+- **Select Companies:** Use the search or dropdown feature to choose specific NSE & BSE listed companies for detailed analysis.
 
-- Generate Reports and Visualizations: View comprehensive reports and various chart types to analyze the selected company's stock performance.
+- **Generate Reports and Visualizations:** View comprehensive reports and various chart types to analyze the selected company's stock performance.
