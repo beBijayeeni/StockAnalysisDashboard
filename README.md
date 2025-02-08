@@ -1,6 +1,6 @@
 # Stock Analysis Dashboard
 
-This project fetches stock price data from Yahoo Finance using `yfinance` and provides various analyses such as daily stock prices, monthly reports, and interactive candlestick charts using Plotly. It also saves the reports to an Excel file.
+This project fetches stock price data from Yahoo Finance using `yfinance` and provides various analyses such as daily stock prices, monthly reports, and interactive charts using Plotly. It also saves the reports to an Excel file.
 
 ## Features
 
