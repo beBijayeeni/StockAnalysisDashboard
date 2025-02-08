@@ -39,13 +39,15 @@ pip install -r requirements.txt
 
 Run the main script:
 ```sh
-python stock_analysis.py
+python stock_analysis.ipynb
 ```
 This will:
 
-- Fetch daily stock prices for the tickers defined (e.g., INFY, TCS, WIPRO).
-- Generate a 1-month option report for each ticker.
-- Display an interactive candlestick chart for the 1-month period.
+- Launch the Dashboard: Run the application to access the web-based interface for stock analysis.
+
+- Select Companies: Use the search or dropdown feature to choose specific NSE & BSE listed companies for detailed analysis.
+
+- Generate Reports and Visualizations: View comprehensive reports and various chart types to analyze the selected company's stock performance.
 
 ## Running the Project
 
