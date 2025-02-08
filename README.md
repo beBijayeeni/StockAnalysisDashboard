@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Run the main script:
+Run the notebook:
 ```sh
 python stock_analysis.ipynb
 ```
@@ -48,11 +48,3 @@ This will:
 - Select Companies: Use the search or dropdown feature to choose specific NSE & BSE listed companies for detailed analysis.
 
 - Generate Reports and Visualizations: View comprehensive reports and various chart types to analyze the selected company's stock performance.
-
-## Running the Project
-
-**Set up your environment:**  
-Install Python 3 and then run:
-```bash
-pip install -r requirements.txt
-```
